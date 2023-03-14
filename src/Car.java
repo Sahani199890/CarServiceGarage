@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class Car {
+class Car {
+    static Car HATCHBACK;
+    static Car SEDAN;
+    static Car SUV;
+    static Car Benz;
 }
