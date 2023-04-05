@@ -20,3 +20,12 @@
 3. Engine fixing (EF01)
 4. Clutch fixing (CF01)
 5. Brake fixing (BF01)
+
+# Working
+* This project involves a user-input system where customers can specify the make and model of their car as well as the types of services they require. The system then generates an itemized bill for all services rendered, including any applicable discounts or free services.
+
+* The objective of this project is to streamline the process of obtaining car maintenance services by offering a comprehensive and user-friendly platform. The user's inputs allow for a personalized experience that caters to the specific needs of each customer. This system provides transparency and clarity to the customer, as they are aware of the services they are being charged for and can monitor any additional costs incurred.
+
+* Furthermore, this system is designed to provide value to the customer by offering discounts or free services based on their needs. This incentivizes customers to continue using the platform, promoting customer retention and loyalty. This project is built with the aim of providing an efficient and satisfying experience to both the customer and the service provider.
+
+* In summary, this project provides a streamlined and comprehensive platform for obtaining car maintenance services, with an emphasis on user input, transparency, and value-added services.
